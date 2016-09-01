@@ -1,4 +1,3 @@
-layout_spectrum: 0.3262034801300615
 typography_spectrum: 0.6388870333321393
 color:
   brandStrength: 0.19527786155231297
@@ -6,9 +5,11 @@ color:
   saturation: 0.3731454883236438
   rhythmicContrast: 0.9155182705726475
   brandColors:
-    - '#FFFFFF'
-    - '#DADDDC'
-    - '#040102'
-    - '#919193'
-    - '#5F5C5D'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+layout_spectrum: 0.3262034801300615
 name: Wm Farmer & Sons
+title: Welcome
